@@ -2,6 +2,28 @@
 
 A new Flutter project.
 
+
+
+## Features 
+
+- show available courses 
+- view course details
+- continue watching from last lesson 
+- responsive ui
+- clean arch 
+
+
+
+## tech stack 
+
+- Flutter 
+- Dart
+- Clean Architecture
+- Provider
+- Dio 
+- Flutter ScreenUtil
+- Google fonts
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
